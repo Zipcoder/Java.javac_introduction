@@ -21,6 +21,8 @@ javac -version
 
 ### Create Hello World Program
 
+Start a terminal window. 
+
 Create a file called Hello.java.
 ```
 touch Hello.java
@@ -47,3 +49,5 @@ javac Hello.java
 ```
 java Hello
 ```
+
+Now, copy all the text from the terminal, and paste it into the PasteTerminalHistory.txt file. And you're done. See, easy lab.
